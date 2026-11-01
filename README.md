@@ -16,7 +16,7 @@ This repository contains all lab assignments for the Backend Development Fundame
 | Folder | Lab Title | Status | Link |
 |---|---|---|---|
 | `lab-01/` | **Lab 1: Node.js and Express server** |  Completed | [View Lab 1 README](./lab-01/README.md) |
-| `lab-02/` | Lab 2: TBD | ⏳ Upcoming | — |
+| `lab-02/` | **Lab 2: SQLite database and CRUD routes** |  Completed | [View Lab 2 README](./lab-02/README.md) |
 | `lab-03/` | Lab 3: TBD | ⏳ Upcoming | — |
 | `lab-04/` | Lab 4: TBD | ⏳ Upcoming | — |
 | `lab-05/` | Lab 5: TBD | ⏳ Upcoming | — |
