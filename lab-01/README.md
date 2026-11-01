@@ -1,10 +1,11 @@
 # Lab 1: Node.js and Express server
 
-**Name:** Guneeth  
+**Name:** Guneeth Kalipindi  
 **Registration Number:** RA2311003010000  
 **Section:** CSE-Core  
 **Course:** Backend Development Fundamentals (Year II Term II)  
 **Faculty:** Joel Prashanth D  
+**GitHub Repository:** [https://github.com/guneethkalipindi1416-jpg/backend-development-lab-guneeeth](https://github.com/guneethkalipindi1416-jpg/backend-development-lab-guneeeth)  
 
 ---
 

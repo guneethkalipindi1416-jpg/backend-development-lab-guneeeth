@@ -32,7 +32,7 @@ app.get('/', (req, res) => {
 // Task 5: Route 2 - GET /about (JSON with name and section)
 app.get('/about', (req, res) => {
   const studentInfo = {
-    name: process.env.STUDENT_NAME || 'Guneeth',
+    name: process.env.STUDENT_NAME || 'Guneeth Kalipindi',
     registrationNumber: process.env.STUDENT_REG_NO || 'RA2311003010000',
     section: process.env.STUDENT_SECTION || 'CSE-Core',
     course: 'Backend Development Fundamentals',

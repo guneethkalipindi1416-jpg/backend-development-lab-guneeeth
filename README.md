@@ -2,9 +2,10 @@
 
 **Course:** Backend Development Fundamentals · Year II Term II · Aurora  
 **Faculty:** Joel Prashanth D  
-**Student Name:** Guneeth  
+**Student Name:** Guneeth Kalipindi  
 **Registration Number:** RA2311003010000  
 **Section:** CSE-Core  
+**GitHub Repository:** [https://github.com/guneethkalipindi1416-jpg/backend-development-lab-guneeeth](https://github.com/guneethkalipindi1416-jpg/backend-development-lab-guneeeth)  
 
 ---
 
